@@ -2,7 +2,10 @@
 
 ### 💻 Full Stack Developer| 🎨 Designer & Innovator
 
-I’m a Full Stack Developer passionate about creating user-friendly and efficient digital solutions. I combine web development, software engineering, and design to build clean, reliable, and modern applications. I value innovation, quality, and teamwork in every project I work on.
+☕ Fueled by coffee, driven by code, and occasionally rescued by Stack Overflow.
+💻 I’m a Full Stack Developer who turns complex ideas into clean, efficient, and user-friendly digital experiences.
+🧠 I blend logic with creativity — crafting solutions that look good, work smoothly, and scale seamlessly.
+🚀 Passionate about innovation, collaboration, and building software that actually makes life easier (and looks great doing it).
 ---
 ### 🚀 About Me
 -🧠 Full Stack Developer | Creative Technologist | Problem Solver
