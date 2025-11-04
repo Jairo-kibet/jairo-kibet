@@ -46,10 +46,15 @@
 ---
 
 ### 🌐 Connect With Me
+### 🌐 Connect With Me
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/JairoKibet)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairokibet1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jairo-kibet)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jairotech12/profilecard/?igsh=d2E2cXltMjgwbW9q)
+[![Behance](https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/JkTech)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@its.jairo.tech)
+
 
 ---
 
