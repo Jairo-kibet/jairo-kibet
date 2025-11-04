@@ -5,13 +5,12 @@
 I’m a Full Stack Developer passionate about creating user-friendly and efficient digital solutions. I combine web development, software engineering, and design to build clean, reliable, and modern applications. I value innovation, quality, and teamwork in every project I work on.
 ---
 ### 🚀 About Me
-🧠 Full Stack Developer | Creative Technologist | Problem Solver
-🚀 Passionate about building efficient, scalable, and user-centered web solutions.
-💻 Skilled in Django, PHP, and modern JavaScript frameworks (React, Node.js) — constantly exploring new technologies to stay ahead.
-🧩 I enjoy turning ideas into functional, visually appealing digital products that make an impact.
-🛠️ Git is my daily companion, and I treat clean code like good design — both tell clear stories.
-💬 Always open to collaborating on web apps, APIs, and open-source projects — or just chatting about tech and innovation.
-⚡ Fun fact: I believe every bug teaches a lesson — sometimes the hard way 😅
+-🧠 Full Stack Developer | Creative Technologist | Problem Solver=🚀 Passionate about building efficient, scalable, and user-centered web solutions.
+-💻 Skilled in Django, PHP, and modern JavaScript frameworks (React, Node.js) — constantly exploring new technologies to stay ahead.
+-🧩 I enjoy turning ideas into functional, visually appealing digital products that make an impact.
+-🛠️ Git is my daily companion, and I treat clean code like good design — both tell clear stories.
+-💬 Always open to collaborating on web apps, APIs, and open-source projects — or just chatting about tech and innovation.
+-⚡ Fun fact: I believe every bug teaches a lesson — sometimes the hard way 😅
 
 ---
 
