@@ -7,6 +7,15 @@ I love transforming ideas into impactful digital experiences — clean, modern, 
 
 ---
 
+### 🚀 About Me
+- 🔭 I’m currently working on: **Online Booking Systems (Flights, Hotels & Travel)**  
+- 🌱 I’m currently learning: **Django, PHP, JavaScript frameworks (React, Node.js)**  
+- 👯 I’m open to collaborate on: **Web apps, APIs, and open-source tech projects**  
+- 💬 Ask me about: **Full Stack Web Development, UI/UX Design, and Project Deployment**  
+- ⚡ Fun fact: *I believe great design and clean code tell the same story.*  
+
+---
+
 ### 🧠 Skills & Tools
 
 <div align="center">
