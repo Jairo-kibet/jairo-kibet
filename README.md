@@ -1,18 +1,17 @@
 ## 👋 Hi there, I'm Jairo Kibet
 
-### 💻 Full Stack Developer | 🌍 Founder of Jairo Tech | 🎨 Designer & Innovator
+### 💻 Full Stack Developer| 🎨 Designer & Innovator
 
-Welcome to my GitHub profile! I’m a passionate developer with a focus on **web development, software engineering, and creative design**.  
-I love transforming ideas into impactful digital experiences — clean, modern, and user-focused.
-
+I’m a Full Stack Developer passionate about creating user-friendly and efficient digital solutions. I combine web development, software engineering, and design to build clean, reliable, and modern applications. I value innovation, quality, and teamwork in every project I work on.
 ---
-
 ### 🚀 About Me
-- 🔭 I’m currently working on: **Online Booking Systems (Flights, Hotels & Travel)**  
-- 🌱 I’m currently learning: **Django, PHP, JavaScript frameworks (React, Node.js)**  
-- 👯 I’m open to collaborate on: **Web apps, APIs, and open-source tech projects**  
-- 💬 Ask me about: **Full Stack Web Development, UI/UX Design, and Project Deployment**  
-- ⚡ Fun fact: *I believe great design and clean code tell the same story.*  
+🧠 Full Stack Developer | Creative Technologist | Problem Solver
+🚀 Passionate about building efficient, scalable, and user-centered web solutions.
+💻 Skilled in Django, PHP, and modern JavaScript frameworks (React, Node.js) — constantly exploring new technologies to stay ahead.
+🧩 I enjoy turning ideas into functional, visually appealing digital products that make an impact.
+🛠️ Git is my daily companion, and I treat clean code like good design — both tell clear stories.
+💬 Always open to collaborating on web apps, APIs, and open-source projects — or just chatting about tech and innovation.
+⚡ Fun fact: I believe every bug teaches a lesson — sometimes the hard way 😅
 
 ---
 
