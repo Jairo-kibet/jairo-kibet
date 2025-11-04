@@ -9,7 +9,7 @@
 
 ---
 ### 🚀 About Me
--🧠 Full Stack Developer | Creative Technologist | Problem Solver
+ -🧠 Full Stack Developer | Tech Enthusiast | Innovator
 - 🔭 I’m currently working on: **church management system**
 - 🚀 Passionate about building efficient, scalable, and user-centered web solutions.
 - 💻 Skilled in Django and PHP  framewroks— constantly exploring new technologies to stay ahead.
