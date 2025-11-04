@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Jairo Kibet
 
-### 💻 Full Stack Developer| 🎨 Designer & Innovator
+### 💻 Full Stack Developer|  🎨Graphic Designer Innovator
 
-☕ Fueled by coffee, driven by code, and occasionally rescued by Stack Overflow.
-💻 I’m a Full Stack Developer who turns complex ideas into clean, efficient, and user-friendly digital experiences.
-🧠 I blend logic with creativity — crafting solutions that look good, work smoothly, and scale seamlessly.
-🚀 Passionate about innovation, collaboration, and building software that actually makes life easier (and looks great doing it).
+☕ Fueled by coffee, driven by code, and saved by Stack Overflow.
+💻 I’m a Full Stack Developer turning ideas into clean, efficient, and user-friendly digital solutions.
+🧠 I mix logic with creativity to build smooth, scalable, and modern applications.
+🚀 Passionate about innovation, teamwork, and crafting software that makes life easier.
 
 ---
 ### 🚀 About Me
@@ -19,7 +19,7 @@
 �
 
 ---
-
+> *““First, solve the problem. Then, write the code.” 🧠”* ✨
 ### 🧠 Skills & Tools
 
 <div align="center">
