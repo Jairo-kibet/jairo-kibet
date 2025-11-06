@@ -11,7 +11,7 @@
 ### 🚀 About Me
  -🧠 Full Stack Developer | Tech Enthusiast | Innovator
 - 🔭 I’m currently working on: **church management system**
-- 🚀 Passionate about building efficient, scalable, and user-centered web solutions.
+  - 🚀 Passionate about building efficient, scalable, and user-centered web solutions.
 - 💻 Skilled in Django and PHP  framewroks— constantly exploring new technologies to stay ahead.
 - 🧩 I enjoy turning ideas into functional, visually appealing digital products that make an impact.
 - 💬 Ask me about: **Full Stack Web Development, UI/UX Design, and Project Deployment**  
